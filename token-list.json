@@ -1,0 +1,44 @@
+{
+  "name": "Liste des jetons QC51",
+  "timestamp": "2025-06-13T00:00:00Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {
+    "community": {
+      "name": "community",
+      "description": "Jetons communautaires"
+    },
+    "utility": {
+      "name": "utility",
+      "description": "Jetons utilitaires"
+    }
+  },
+  "logoURI": "https://raw.githubusercontent.com/Karl-Prescott/qc51-token-list/main/logo.png",
+  "keywords": [
+    "solana",
+    "qc51",
+    "québec",
+    "crypto"
+  ],
+  "tokens": [
+    {
+      "name": "QuebecCoin",
+      "symbol": "QC51",
+      "address": "2QQgvFZjPKBwWAnPhaUyqxvCMoUeh1LRByE9RDZBJdA3",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/Karl-Prescott/qc51-token-list/main/logo.png",
+      "tags": [
+        "community",
+        "utility"
+      ],
+      "extensions": {
+        "website": "https://karlprescott.ca",
+        "twitter": "https://twitter.com/QuebecCoin",
+        "description": "Jeton communautaire québécois basé sur Solana"
+      }
+    }
+  ]
+}
