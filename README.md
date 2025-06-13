@@ -1,37 +1,46 @@
 # QuebecCoin (QC51)
 
-**Nom du token :** QuebecCoin  
-**Symbole :** QC51  
-**Blockchain :** Solana  
-**Adresse Mint :** 2QQgvFZjPKBwWAnPhaUyqxvCMoUeh1LRByE9RDZBJdA3  
-**Décimales :** 9  
-**Total émis :** 51 000 000 QC51  
-**Réémissible :** Oui  
-**Projet :** Québec51 — Une cryptomonnaie communautaire et patriote au service d’un Québec libre, autonome et souverain.  
+Fiche officielle du jeton communautaire québécois **QuebecCoin (QC51)**, déployé sur la blockchain **Solana**.
 
 ---
 
-## Description
+## 🧾 Détails techniques
 
-QuebecCoin (QC51) est un jeton créé sur la blockchain Solana pour soutenir le projet Québec51.  
-Ce projet vise à construire une communauté autour de la liberté d’expression, de la souveraineté numérique,  
-et d’une vision économique alternative pour les Québécois.
-
----
-
-## Logo
-
-![QC51 Logo](logo.png)
+- **Nom du token :** QuebecCoin  
+- **Symbole :** QC51  
+- **Blockchain :** Solana  
+- **Adresse Mint :** `2QQgvFZjPKBwWAnPhaUyqxvCMoUeh1LRByE9RDZBJdA3`  
+- **Décimales :** 9  
+- **Total émis :** 51 000 000 QC51  
+- **Réémissible :** Oui  
 
 ---
 
-## Utilisation prévue
+## 🎯 Objectif du projet
 
-- Récompenses communautaires
-- Accès à du contenu exclusif
-- Outil de gouvernance ou de vote dans un futur DAO
-- Support de projets liés à l’identité québécoise
+**Québec51** est une cryptomonnaie communautaire patriote, pensée pour :
+
+- Récompenser l'engagement citoyen et identitaire
+- Soutenir des initiatives locales ou souverainistes
+- Offrir une monnaie d'accès à des contenus, événements ou avantages exclusifs liés à la cause québécoise
 
 ---
 
-> Ce fichier fait partie du registre communautaire pour les jetons Solana, en dehors du registre officiel (désactivé en 2022).
+## 🖼️ Logo
+
+Le logo officiel est basé sur la fleur de lys, dans un style patriote moderne, avec les lettres **QC51**. Il est disponible au format `.png` dans le dossier `/assets/mainnet/<mint_address>/`.
+
+---
+
+## 🧠 À venir
+
+- Ajout aux plateformes de reconnaissance de jetons (comme Phantom / Jupiter)
+- Page Web officielle : [karlprescott.ca](https://karlprescott.ca)
+- Déploiement d’un écosystème d’usage
+
+---
+
+## 📬 Contact
+
+Créé par Karl Prescott  
+Pour plus d’informations ou collaborations, visitez : [karlprescott.ca](https://karlprescott.ca)
