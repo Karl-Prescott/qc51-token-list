@@ -1,5 +1,5 @@
 {
-  "name": "Liste des jetons QC51",
+  "name": "QC51 Token List",
   "timestamp": "2025-06-13T00:00:00Z",
   "version": {
     "major": 1,
@@ -16,29 +16,17 @@
       "description": "Jetons utilitaires"
     }
   },
-  "logoURI": "https://raw.githubusercontent.com/Karl-Prescott/qc51-token-list/main/logo.png",
-  "keywords": [
-    "solana",
-    "qc51",
-    "québec",
-    "crypto"
-  ],
+  "logoURI": "https://raw.githubusercontent.com/Karl-Prescott/qc51-token-list/main/assets/mainnet/2QQgvFZjPKBwWAnPhaUyqxvCMoUeh1LRByE9RDZBJdA3/logo.png",
+  "keywords": ["solana", "qc51", "quebec", "crypto"],
   "tokens": [
     {
-      "name": "QuebecCoin",
-      "symbol": "QC51",
+      "chainId": 101,
       "address": "2QQgvFZjPKBwWAnPhaUyqxvCMoUeh1LRByE9RDZBJdA3",
+      "symbol": "QC51",
+      "name": "QuebecCoin",
       "decimals": 9,
-      "logoURI": "https://raw.githubusercontent.com/Karl-Prescott/qc51-token-list/main/logo.png",
-      "tags": [
-        "community",
-        "utility"
-      ],
-      "extensions": {
-        "website": "https://karlprescott.ca",
-        "twitter": "https://twitter.com/QuebecCoin",
-        "description": "Jeton communautaire québécois basé sur Solana"
-      }
+      "logoURI": "https://raw.githubusercontent.com/Karl-Prescott/qc51-token-list/main/assets/mainnet/2QQgvFZjPKBwWAnPhaUyqxvCMoUeh1LRByE9RDZBJdA3/logo.png",
+      "tags": ["community"]
     }
   ]
 }
