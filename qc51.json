@@ -1,0 +1,14 @@
+{
+  "name": "QuebecCoin",
+  "symbol": "QC51",
+  "description": "QuebecCoin (QC51) est une cryptomonnaie communautaire québécoise, créée pour soutenir l’identité, l’engagement citoyen et les initiatives locales.",
+  "image": "https://raw.githubusercontent.com/Karl-Prescott/qc51-token-list/main/logo.png",
+  "attributes": [
+    { "trait_type": "Projet", "value": "Québec51" },
+    { "trait_type": "Blockchain", "value": "Solana" }
+  ],
+  "extensions": {
+    "website": "https://karlprescott.ca",
+    "github": "https://github.com/Karl-Prescott/qc51-token-list"
+  }
+}
